@@ -1,0 +1,2 @@
+# ibot
+LAMP simple website
